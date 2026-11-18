@@ -1,2 +1,2 @@
-# Belmes_DeadlineDateFormatter
+# Belmes_StudentInfoFormatter
 For Activity 1.
